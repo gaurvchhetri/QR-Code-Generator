@@ -28,4 +28,4 @@ https://qr-code-generator-by-gauravchhetri.vercel.app
 ---
 
 ## 📸 Preview
-[QR Code Generator Preview](preview.jpg)
+![QR Code Generator Preview](preview.jpg)
