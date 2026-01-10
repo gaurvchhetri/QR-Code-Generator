@@ -21,7 +21,7 @@ https://qr-code-generator-by-gauravchhetri.vercel.app
 
 ## 🛠️ Built With
 - **HTML5**
-- **CSS3**
+- **CSS**
 - **JavaScript**
 - **QR Code API / Library**
 
